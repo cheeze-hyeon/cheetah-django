@@ -36,7 +36,7 @@ DEBUG = True
 ALLOWED_HOSTS = [
     "localhost",
     "127.0.0.1",
-    "https://port-0-cheetah-django-cu6q2blknl0x2l.sel4.cloudtype.app/   "
+    "https://port-0-cheetah-django-cu6q2blknl0x2l.sel4.cloudtype.app/"
 ]
 
 
