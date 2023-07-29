@@ -36,7 +36,7 @@ DEBUG = True
 ALLOWED_HOSTS = [
     "localhost",
     "127.0.0.1",
-    "https://port-0-cheetah-django-cu6q2blknl0x2l.sel4.cloudtype.app/"
+    "https://port-0-cheetah-django-cu6q2blknl0x2l.sel4.cloudtype.app"
 ]
 
 
@@ -178,7 +178,7 @@ CSRF_TRUSTED_ORIGINS = [
     "http://172.30.1.49:3000",
     "http://127.0.0.1:3000",
     "http://localhost:3000",
-    "https://port-0-cheetah-django-eg4e2alkmzysff.sel4.cloudtype.app/",
+    "https://port-0-cheetah-django-cu6q2blknl0x2l.sel4.cloudtype.app",
 ]
 
 CORS_ALLOWED_ORIGINS = [  # (헤더) Access-Control-Allow-Origin 에 담을 주소들
